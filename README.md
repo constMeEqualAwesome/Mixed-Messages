@@ -6,6 +6,6 @@ This project is a message generator that tells you what to do, every time the us
 > You should trust that guy!
 
 ## Example2:
- Why don't you cook my chickens?
+> Why don't you cook my chickens?
 
 *You* will stay constant but every thing else will be randomized.
