@@ -7,5 +7,5 @@ function returnMessage () {
   return message.join(' ');
 }
 
-console.log(`${returnMessage()}`);
+console.log(`${returnMessage()}!`);
 
