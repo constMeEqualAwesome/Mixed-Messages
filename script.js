@@ -3,7 +3,7 @@ let messageGroup2 = ['eat', 'smell', 'take', 'have', 'steal', 'cook', 'use', 'tr
 let messageGroup3 = ['a person', 'a cat', 'a house', 'a bath', 'anyone', 'some cheese', 'that guy', 'my chickens'];
 
 function returnMessage () {
-  let message = [['You'], messageGroup1[Math.floor(Math.random() * 9)], messageGroup2[Math.floor(Math.random() * 9)], messageGroup3[Math.floor(Math.random() * 9)], ['.']]
+  let message = [['You'], messageGroup1[Math.floor(Math.random() * 9)], messageGroup2[Math.floor(Math.random() * 9)], messageGroup3[Math.floor(Math.random() * 9)]];
   return message.join(' ');
 }
 
