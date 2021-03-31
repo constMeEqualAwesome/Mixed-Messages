@@ -1,3 +1,5 @@
+/* jshint esversion: 6 */
+
 let message1Group1 = ['should', 'shouldn\'t', 'will', 'might', 'can\'t', 'can', 'could', 'wont'];
 let message1Group2 = ['eat', 'smell', 'take', 'mug', 'steal', 'cook', 'use', 'poop on', 'have'];
 let message1Group3 = ['a person', 'a cat', 'a house', 'a bath', 'anyone', 'some cheese', 'that guy', 'my chickens', 'them'];
